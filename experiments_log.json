@@ -1,0 +1,272 @@
+[
+    {
+        "timestamp": "2026-04-19 13:17:01",
+        "name": "exp_base_rf_100",
+        "params": {
+            "n_estimators": 100,
+            "max_depth": 5,
+            "random_state": 42
+        },
+        "accuracy": 0.9444444444444444
+    },
+    {
+        "timestamp": "2026-04-19 13:17:02",
+        "name": "exp_deep_rf_200",
+        "params": {
+            "n_estimators": 200,
+            "max_depth": 10,
+            "random_state": 42
+        },
+        "accuracy": 0.9722222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:17:02",
+        "name": "exp_wide_test",
+        "params": {
+            "n_estimators": 100,
+            "max_depth": 5,
+            "random_state": 42
+        },
+        "accuracy": 0.9407407407407408
+    },
+    {
+        "timestamp": "2026-04-19 13:19:58",
+        "name": "rf_n50_d3_ts0.2",
+        "params": {
+            "n_estimators": 50,
+            "max_depth": 3,
+            "random_state": 42
+        },
+        "accuracy": 0.8833333333333333
+    },
+    {
+        "timestamp": "2026-04-19 13:19:59",
+        "name": "rf_n50_d3_ts0.3",
+        "params": {
+            "n_estimators": 50,
+            "max_depth": 3,
+            "random_state": 42
+        },
+        "accuracy": 0.8888888888888888
+    },
+    {
+        "timestamp": "2026-04-19 13:19:59",
+        "name": "rf_n50_d5_ts0.2",
+        "params": {
+            "n_estimators": 50,
+            "max_depth": 5,
+            "random_state": 42
+        },
+        "accuracy": 0.9444444444444444
+    },
+    {
+        "timestamp": "2026-04-19 13:19:59",
+        "name": "rf_n50_d5_ts0.3",
+        "params": {
+            "n_estimators": 50,
+            "max_depth": 5,
+            "random_state": 42
+        },
+        "accuracy": 0.9462962962962963
+    },
+    {
+        "timestamp": "2026-04-19 13:19:59",
+        "name": "rf_n50_d10_ts0.2",
+        "params": {
+            "n_estimators": 50,
+            "max_depth": 10,
+            "random_state": 42
+        },
+        "accuracy": 0.9666666666666667
+    },
+    {
+        "timestamp": "2026-04-19 13:19:59",
+        "name": "rf_n50_d10_ts0.3",
+        "params": {
+            "n_estimators": 50,
+            "max_depth": 10,
+            "random_state": 42
+        },
+        "accuracy": 0.9685185185185186
+    },
+    {
+        "timestamp": "2026-04-19 13:20:00",
+        "name": "rf_n50_dNone_ts0.2",
+        "params": {
+            "n_estimators": 50,
+            "max_depth": null,
+            "random_state": 42
+        },
+        "accuracy": 0.9722222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:20:00",
+        "name": "rf_n50_dNone_ts0.3",
+        "params": {
+            "n_estimators": 50,
+            "max_depth": null,
+            "random_state": 42
+        },
+        "accuracy": 0.9740740740740741
+    },
+    {
+        "timestamp": "2026-04-19 13:20:00",
+        "name": "rf_n100_d3_ts0.2",
+        "params": {
+            "n_estimators": 100,
+            "max_depth": 3,
+            "random_state": 42
+        },
+        "accuracy": 0.8972222222222223
+    },
+    {
+        "timestamp": "2026-04-19 13:20:01",
+        "name": "rf_n100_d3_ts0.3",
+        "params": {
+            "n_estimators": 100,
+            "max_depth": 3,
+            "random_state": 42
+        },
+        "accuracy": 0.8870370370370371
+    },
+    {
+        "timestamp": "2026-04-19 13:20:01",
+        "name": "rf_n100_d5_ts0.2",
+        "params": {
+            "n_estimators": 100,
+            "max_depth": 5,
+            "random_state": 42
+        },
+        "accuracy": 0.9444444444444444
+    },
+    {
+        "timestamp": "2026-04-19 13:20:01",
+        "name": "rf_n100_d5_ts0.3",
+        "params": {
+            "n_estimators": 100,
+            "max_depth": 5,
+            "random_state": 42
+        },
+        "accuracy": 0.9407407407407408
+    },
+    {
+        "timestamp": "2026-04-19 13:20:02",
+        "name": "rf_n100_d10_ts0.2",
+        "params": {
+            "n_estimators": 100,
+            "max_depth": 10,
+            "random_state": 42
+        },
+        "accuracy": 0.9722222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:20:02",
+        "name": "rf_n100_d10_ts0.3",
+        "params": {
+            "n_estimators": 100,
+            "max_depth": 10,
+            "random_state": 42
+        },
+        "accuracy": 0.9777777777777777
+    },
+    {
+        "timestamp": "2026-04-19 13:20:03",
+        "name": "rf_n100_dNone_ts0.2",
+        "params": {
+            "n_estimators": 100,
+            "max_depth": null,
+            "random_state": 42
+        },
+        "accuracy": 0.9722222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:20:03",
+        "name": "rf_n100_dNone_ts0.3",
+        "params": {
+            "n_estimators": 100,
+            "max_depth": null,
+            "random_state": 42
+        },
+        "accuracy": 0.975925925925926
+    },
+    {
+        "timestamp": "2026-04-19 13:20:04",
+        "name": "rf_n200_d3_ts0.2",
+        "params": {
+            "n_estimators": 200,
+            "max_depth": 3,
+            "random_state": 42
+        },
+        "accuracy": 0.8944444444444445
+    },
+    {
+        "timestamp": "2026-04-19 13:20:04",
+        "name": "rf_n200_d3_ts0.3",
+        "params": {
+            "n_estimators": 200,
+            "max_depth": 3,
+            "random_state": 42
+        },
+        "accuracy": 0.8981481481481481
+    },
+    {
+        "timestamp": "2026-04-19 13:20:05",
+        "name": "rf_n200_d5_ts0.2",
+        "params": {
+            "n_estimators": 200,
+            "max_depth": 5,
+            "random_state": 42
+        },
+        "accuracy": 0.9472222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:20:06",
+        "name": "rf_n200_d5_ts0.3",
+        "params": {
+            "n_estimators": 200,
+            "max_depth": 5,
+            "random_state": 42
+        },
+        "accuracy": 0.9425925925925925
+    },
+    {
+        "timestamp": "2026-04-19 13:20:06",
+        "name": "rf_n200_d10_ts0.2",
+        "params": {
+            "n_estimators": 200,
+            "max_depth": 10,
+            "random_state": 42
+        },
+        "accuracy": 0.9722222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:20:07",
+        "name": "rf_n200_d10_ts0.3",
+        "params": {
+            "n_estimators": 200,
+            "max_depth": 10,
+            "random_state": 42
+        },
+        "accuracy": 0.9703703703703703
+    },
+    {
+        "timestamp": "2026-04-19 13:20:08",
+        "name": "rf_n200_dNone_ts0.2",
+        "params": {
+            "n_estimators": 200,
+            "max_depth": null,
+            "random_state": 42
+        },
+        "accuracy": 0.9694444444444444
+    },
+    {
+        "timestamp": "2026-04-19 13:20:09",
+        "name": "rf_n200_dNone_ts0.3",
+        "params": {
+            "n_estimators": 200,
+            "max_depth": null,
+            "random_state": 42
+        },
+        "accuracy": 0.9722222222222222
+    }
+]
