@@ -268,5 +268,629 @@
             "random_state": 42
         },
         "accuracy": 0.9722222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:26",
+        "name": "RandomForest_n50_d5_ts0.2",
+        "params": {
+            "name": "RandomForest",
+            "n_estimators": 50,
+            "max_depth": 5,
+            "C": 0.1,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.9444444444444444
+    },
+    {
+        "timestamp": "2026-04-19 13:31:26",
+        "name": "RandomForest_n50_d5_ts0.2",
+        "params": {
+            "name": "RandomForest",
+            "n_estimators": 50,
+            "max_depth": 5,
+            "C": 0.1,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.9444444444444444
+    },
+    {
+        "timestamp": "2026-04-19 13:31:26",
+        "name": "RandomForest_n50_d5_ts0.2",
+        "params": {
+            "name": "RandomForest",
+            "n_estimators": 50,
+            "max_depth": 5,
+            "C": 1.0,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.9444444444444444
+    },
+    {
+        "timestamp": "2026-04-19 13:31:27",
+        "name": "RandomForest_n50_d5_ts0.2",
+        "params": {
+            "name": "RandomForest",
+            "n_estimators": 50,
+            "max_depth": 5,
+            "C": 1.0,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.9444444444444444
+    },
+    {
+        "timestamp": "2026-04-19 13:31:27",
+        "name": "RandomForest_n50_dNone_ts0.2",
+        "params": {
+            "name": "RandomForest",
+            "n_estimators": 50,
+            "max_depth": null,
+            "C": 0.1,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.9722222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:27",
+        "name": "RandomForest_n50_dNone_ts0.2",
+        "params": {
+            "name": "RandomForest",
+            "n_estimators": 50,
+            "max_depth": null,
+            "C": 0.1,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.9722222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:27",
+        "name": "RandomForest_n50_dNone_ts0.2",
+        "params": {
+            "name": "RandomForest",
+            "n_estimators": 50,
+            "max_depth": null,
+            "C": 1.0,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.9722222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:28",
+        "name": "RandomForest_n50_dNone_ts0.2",
+        "params": {
+            "name": "RandomForest",
+            "n_estimators": 50,
+            "max_depth": null,
+            "C": 1.0,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.9722222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:28",
+        "name": "RandomForest_n100_d5_ts0.2",
+        "params": {
+            "name": "RandomForest",
+            "n_estimators": 100,
+            "max_depth": 5,
+            "C": 0.1,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.9444444444444444
+    },
+    {
+        "timestamp": "2026-04-19 13:31:28",
+        "name": "RandomForest_n100_d5_ts0.2",
+        "params": {
+            "name": "RandomForest",
+            "n_estimators": 100,
+            "max_depth": 5,
+            "C": 0.1,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.9444444444444444
+    },
+    {
+        "timestamp": "2026-04-19 13:31:29",
+        "name": "RandomForest_n100_d5_ts0.2",
+        "params": {
+            "name": "RandomForest",
+            "n_estimators": 100,
+            "max_depth": 5,
+            "C": 1.0,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.9444444444444444
+    },
+    {
+        "timestamp": "2026-04-19 13:31:29",
+        "name": "RandomForest_n100_d5_ts0.2",
+        "params": {
+            "name": "RandomForest",
+            "n_estimators": 100,
+            "max_depth": 5,
+            "C": 1.0,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.9444444444444444
+    },
+    {
+        "timestamp": "2026-04-19 13:31:30",
+        "name": "RandomForest_n100_dNone_ts0.2",
+        "params": {
+            "name": "RandomForest",
+            "n_estimators": 100,
+            "max_depth": null,
+            "C": 0.1,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.9722222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:30",
+        "name": "RandomForest_n100_dNone_ts0.2",
+        "params": {
+            "name": "RandomForest",
+            "n_estimators": 100,
+            "max_depth": null,
+            "C": 0.1,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.9722222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:31",
+        "name": "RandomForest_n100_dNone_ts0.2",
+        "params": {
+            "name": "RandomForest",
+            "n_estimators": 100,
+            "max_depth": null,
+            "C": 1.0,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.9722222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:31",
+        "name": "RandomForest_n100_dNone_ts0.2",
+        "params": {
+            "name": "RandomForest",
+            "n_estimators": 100,
+            "max_depth": null,
+            "C": 1.0,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.9722222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:31",
+        "name": "SVM_C0.1_krbf_ts0.2",
+        "params": {
+            "name": "SVM",
+            "n_estimators": 50,
+            "max_depth": 5,
+            "C": 0.1,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.95
+    },
+    {
+        "timestamp": "2026-04-19 13:31:31",
+        "name": "SVM_C0.1_klinear_ts0.2",
+        "params": {
+            "name": "SVM",
+            "n_estimators": 50,
+            "max_depth": 5,
+            "C": 0.1,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.9777777777777777
+    },
+    {
+        "timestamp": "2026-04-19 13:31:32",
+        "name": "SVM_C1.0_krbf_ts0.2",
+        "params": {
+            "name": "SVM",
+            "n_estimators": 50,
+            "max_depth": 5,
+            "C": 1.0,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.9861111111111112
+    },
+    {
+        "timestamp": "2026-04-19 13:31:32",
+        "name": "SVM_C1.0_klinear_ts0.2",
+        "params": {
+            "name": "SVM",
+            "n_estimators": 50,
+            "max_depth": 5,
+            "C": 1.0,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.9777777777777777
+    },
+    {
+        "timestamp": "2026-04-19 13:31:32",
+        "name": "SVM_C0.1_krbf_ts0.2",
+        "params": {
+            "name": "SVM",
+            "n_estimators": 50,
+            "max_depth": null,
+            "C": 0.1,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.95
+    },
+    {
+        "timestamp": "2026-04-19 13:31:32",
+        "name": "SVM_C0.1_klinear_ts0.2",
+        "params": {
+            "name": "SVM",
+            "n_estimators": 50,
+            "max_depth": null,
+            "C": 0.1,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.9777777777777777
+    },
+    {
+        "timestamp": "2026-04-19 13:31:32",
+        "name": "SVM_C1.0_krbf_ts0.2",
+        "params": {
+            "name": "SVM",
+            "n_estimators": 50,
+            "max_depth": null,
+            "C": 1.0,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.9861111111111112
+    },
+    {
+        "timestamp": "2026-04-19 13:31:32",
+        "name": "SVM_C1.0_klinear_ts0.2",
+        "params": {
+            "name": "SVM",
+            "n_estimators": 50,
+            "max_depth": null,
+            "C": 1.0,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.9777777777777777
+    },
+    {
+        "timestamp": "2026-04-19 13:31:32",
+        "name": "SVM_C0.1_krbf_ts0.2",
+        "params": {
+            "name": "SVM",
+            "n_estimators": 100,
+            "max_depth": 5,
+            "C": 0.1,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.95
+    },
+    {
+        "timestamp": "2026-04-19 13:31:32",
+        "name": "SVM_C0.1_klinear_ts0.2",
+        "params": {
+            "name": "SVM",
+            "n_estimators": 100,
+            "max_depth": 5,
+            "C": 0.1,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.9777777777777777
+    },
+    {
+        "timestamp": "2026-04-19 13:31:33",
+        "name": "SVM_C1.0_krbf_ts0.2",
+        "params": {
+            "name": "SVM",
+            "n_estimators": 100,
+            "max_depth": 5,
+            "C": 1.0,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.9861111111111112
+    },
+    {
+        "timestamp": "2026-04-19 13:31:33",
+        "name": "SVM_C1.0_klinear_ts0.2",
+        "params": {
+            "name": "SVM",
+            "n_estimators": 100,
+            "max_depth": 5,
+            "C": 1.0,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.9777777777777777
+    },
+    {
+        "timestamp": "2026-04-19 13:31:33",
+        "name": "SVM_C0.1_krbf_ts0.2",
+        "params": {
+            "name": "SVM",
+            "n_estimators": 100,
+            "max_depth": null,
+            "C": 0.1,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.95
+    },
+    {
+        "timestamp": "2026-04-19 13:31:33",
+        "name": "SVM_C0.1_klinear_ts0.2",
+        "params": {
+            "name": "SVM",
+            "n_estimators": 100,
+            "max_depth": null,
+            "C": 0.1,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.9777777777777777
+    },
+    {
+        "timestamp": "2026-04-19 13:31:33",
+        "name": "SVM_C1.0_krbf_ts0.2",
+        "params": {
+            "name": "SVM",
+            "n_estimators": 100,
+            "max_depth": null,
+            "C": 1.0,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.9861111111111112
+    },
+    {
+        "timestamp": "2026-04-19 13:31:33",
+        "name": "SVM_C1.0_klinear_ts0.2",
+        "params": {
+            "name": "SVM",
+            "n_estimators": 100,
+            "max_depth": null,
+            "C": 1.0,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.9777777777777777
+    },
+    {
+        "timestamp": "2026-04-19 13:31:33",
+        "name": "NaiveBayes_ts0.2",
+        "params": {
+            "name": "NaiveBayes",
+            "n_estimators": 50,
+            "max_depth": 5,
+            "C": 0.1,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.8472222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:33",
+        "name": "NaiveBayes_ts0.2",
+        "params": {
+            "name": "NaiveBayes",
+            "n_estimators": 50,
+            "max_depth": 5,
+            "C": 0.1,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.8472222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:33",
+        "name": "NaiveBayes_ts0.2",
+        "params": {
+            "name": "NaiveBayes",
+            "n_estimators": 50,
+            "max_depth": 5,
+            "C": 1.0,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.8472222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:33",
+        "name": "NaiveBayes_ts0.2",
+        "params": {
+            "name": "NaiveBayes",
+            "n_estimators": 50,
+            "max_depth": 5,
+            "C": 1.0,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.8472222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:33",
+        "name": "NaiveBayes_ts0.2",
+        "params": {
+            "name": "NaiveBayes",
+            "n_estimators": 50,
+            "max_depth": null,
+            "C": 0.1,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.8472222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:33",
+        "name": "NaiveBayes_ts0.2",
+        "params": {
+            "name": "NaiveBayes",
+            "n_estimators": 50,
+            "max_depth": null,
+            "C": 0.1,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.8472222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:33",
+        "name": "NaiveBayes_ts0.2",
+        "params": {
+            "name": "NaiveBayes",
+            "n_estimators": 50,
+            "max_depth": null,
+            "C": 1.0,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.8472222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:33",
+        "name": "NaiveBayes_ts0.2",
+        "params": {
+            "name": "NaiveBayes",
+            "n_estimators": 50,
+            "max_depth": null,
+            "C": 1.0,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.8472222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:33",
+        "name": "NaiveBayes_ts0.2",
+        "params": {
+            "name": "NaiveBayes",
+            "n_estimators": 100,
+            "max_depth": 5,
+            "C": 0.1,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.8472222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:33",
+        "name": "NaiveBayes_ts0.2",
+        "params": {
+            "name": "NaiveBayes",
+            "n_estimators": 100,
+            "max_depth": 5,
+            "C": 0.1,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.8472222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:34",
+        "name": "NaiveBayes_ts0.2",
+        "params": {
+            "name": "NaiveBayes",
+            "n_estimators": 100,
+            "max_depth": 5,
+            "C": 1.0,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.8472222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:34",
+        "name": "NaiveBayes_ts0.2",
+        "params": {
+            "name": "NaiveBayes",
+            "n_estimators": 100,
+            "max_depth": 5,
+            "C": 1.0,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.8472222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:34",
+        "name": "NaiveBayes_ts0.2",
+        "params": {
+            "name": "NaiveBayes",
+            "n_estimators": 100,
+            "max_depth": null,
+            "C": 0.1,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.8472222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:34",
+        "name": "NaiveBayes_ts0.2",
+        "params": {
+            "name": "NaiveBayes",
+            "n_estimators": 100,
+            "max_depth": null,
+            "C": 0.1,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.8472222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:34",
+        "name": "NaiveBayes_ts0.2",
+        "params": {
+            "name": "NaiveBayes",
+            "n_estimators": 100,
+            "max_depth": null,
+            "C": 1.0,
+            "kernel": "rbf",
+            "random_state": 42
+        },
+        "accuracy": 0.8472222222222222
+    },
+    {
+        "timestamp": "2026-04-19 13:31:34",
+        "name": "NaiveBayes_ts0.2",
+        "params": {
+            "name": "NaiveBayes",
+            "n_estimators": 100,
+            "max_depth": null,
+            "C": 1.0,
+            "kernel": "linear",
+            "random_state": 42
+        },
+        "accuracy": 0.8472222222222222
     }
 ]
