@@ -1,0 +1,18 @@
+# config/params.yaml
+
+# Configuración de Datos
+data:
+  test_size: 0.2
+  random_state: 42
+
+# Configuración del Modelo
+model:
+  name: "RandomForest"
+  n_estimators: 50
+  max_depth: 3
+  random_state: 42
+
+# Configuración de Salida
+output:
+  model_path: "models/model_v1.pkl"
+  metrics_path: "metrics.json"
