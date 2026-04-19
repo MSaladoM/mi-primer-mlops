@@ -110,7 +110,4 @@ model:
 
 ## 👤 Autor
 
-*   **Mariana Salado** - [MSaladoM](https://github.com/MSaladoM)
-
-
-¿Te gusta este formato? Es limpio, directo y muestra que sabes organizar el código, no solo entrenar modelos. 🚀
+*   **Mariana Salado** -
