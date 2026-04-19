@@ -47,6 +47,8 @@ def main():
         max_depth=model_cfg['max_depth'],
         random_state=model_cfg['random_state']
     )
+#hago un comentario
+    
     model.fit(X_train, y_train)
 
     # 5. Evaluar
