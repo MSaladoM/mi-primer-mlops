@@ -1,0 +1,33 @@
+# --- Entornos Virtuales (NUNCA subirlos) ---
+.venv/
+venv/
+env/
+ENV/
+
+# --- Archivos de Python compilados/caché ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# --- IDEs y Editores ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- Jupyter Notebooks Checkpoints ---
+.ipynb_checkpoints
+
+# --- Datos y Modelos Grandes (Opcional pero recomendado) ---
+# En MLOps avanzado usamos DVC para esto, pero por ahora:
+data/raw/*.csv 
+models/*.pkl
+metrics.json
+
+# --- Logs y Temporales ---
+logs/
+*.log
+tmp/
